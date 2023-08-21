@@ -2,9 +2,11 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>AI Planning for Autonomy</b>
+  - [Search Algorithm (A1)](https://github.com/joshmadakor1/Sentinel-Lab)
+  - PDDL Modelling (A2)(https://github.com/Shengqi689/portfolio/tree/main/AI%20planning%20for%20autonomy/assignment2)
+  - Azul Project (A3)
+- <b>Advanced Database System</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
