@@ -4,7 +4,7 @@
 
 - <b>AI Planning for Autonomy</b>
   - [Search Algorithm (A1)](https://github.com/joshmadakor1/Sentinel-Lab)
-  - PDDL Modelling (A2)(https://github.com/Shengqi689/portfolio/tree/main/AI%20planning%20for%20autonomy/assignment2)
+  - PDDL Modelling (A2)_(https://github.com/Shengqi689/portfolio/tree/main/AI%20planning%20for%20autonomy/assignment2)_
   - Azul Project (A3)
 - <b>Advanced Database System</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
