@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shengqi! Programmer, Data Analyst</a>, </h1>
+<h1>Hi, I'm Shengqi! Programmer, Data Analyst</a>.</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
