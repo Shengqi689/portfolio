@@ -11,6 +11,8 @@
 - <b>Database Systems and Information Modelling</b>
   - [Information Modelling of MyBank Case Study (A1)](https://github.com/Shengqi689/portfolio/tree/main/database%20systems%20and%20information%20modelling/a1)
   - [SQL Statements (A2)](https://github.com/Shengqi689/portfolio/tree/main/database%20systems%20and%20information%20modelling/a2)
+- <b>Innovation & Entrepreneurship in IT</b>
+  - [Business Proposal](https://github.com/Shengqi689/portfolio/tree/main/innovation%20and%20entrepreneurship%20in%20IT)
 - <b>Natural Language Processing</b>
   - [Preprocessing and Text Classification (A1)](https://github.com/Shengqi689/portfolio/tree/main/natural%20language%20processing/a1)
   - [Language Modelling in Hangman (A2)](https://github.com/Shengqi689/portfolio/tree/main/natural%20language%20processing/a2)
